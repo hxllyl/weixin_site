@@ -1,0 +1,9 @@
+development:
+  appID: wxee6f15437f771773
+  appSecret: 219d2b6c6f0e5694e750b194a9bc5995
+staging:
+  appID: wxee6f15437f771773
+  appSecret: 219d2b6c6f0e5694e750b194a9bc5995
+production:
+  appID: ''
+  appSecret: ''
